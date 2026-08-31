@@ -1,25 +1,14 @@
 <div align="center">
-  <img src="./banner.png" width="100%" alt="Sovishake Sarker - AI & ML, Full-Stack & Android Developer"/>
-</div>
 
-<br>
+<img src="./banner.png" width="100%" alt="Sovishake Sarker - AI & ML, Full-Stack & Android Developer"/>
 
-<div align="center">
-
-# 👋 Hi, I'm Sovishake Sarker
-
-### AI & ML Developer • Full-Stack Developer • Android Developer • Problem Solver
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=800&lines=Building+AI-Powered+Applications;Android+%26+Mobile+App+Development;Full-Stack+Web+Development;Exploring+Generative+AI;Turning+Ideas+Into+Real+Products" />
-
-</div>
-<div align="center">
+<br><br>
 
 # 👋 Hi, I'm Ovishake Sarker
 
-### AI & ML Developer • Full-Stack Developer • Problem Solver
+### AI & ML Developer • Full-Stack Developer • Android Developer • Problem Solver
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+AI-Powered+Applications;Exploring+Generative+AI;Developing+Full-Stack+Solutions;Turning+Ideas+Into+Real+Products" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+AI-Powered+Applications;Android+%26+Mobile+App+Development;Full-Stack+Web+Development;Exploring+Generative+AI;Turning+Ideas+Into+Real+Products" />
 
 <br>
 
@@ -38,6 +27,7 @@ I enjoy combining **AI, software engineering, and problem-solving** to turn idea
 * 🎓 Computer Science & Engineering — AI & ML
 * 🤖 Exploring Artificial Intelligence & Generative AI
 * 💻 Building Web & Mobile Applications
+* 📱 Android Development
 * 🛡️ Interested in AI-powered Cybersecurity
 * 🧠 Practicing Data Structures & Algorithms
 * 🚀 Building projects and participating in hackathons
@@ -49,11 +39,11 @@ I enjoy combining **AI, software engineering, and problem-solving** to turn idea
 
 <div align="center">
 
-| 🤖 AI Applications | 🌐 Full-Stack Apps | 📱 Mobile Apps |
-| :----------------: | :----------------: | :------------: |
-|    Generative AI   | React & TypeScript |     Flutter    |
-|     AI Analysis    |  Node.js & Express |    Firebase    |
-|   AI Integration   |      REST APIs     |     Android    |
+| 🤖 AI Applications | 🌐 Full-Stack Apps | 📱 Android & Mobile |
+| :----------------: | :----------------: | :-----------------: |
+|    Generative AI   | React & TypeScript |       Flutter       |
+|     AI Analysis    |  Node.js & Express |       Firebase      |
+|   AI Integration   |      REST APIs     |       Android       |
 
 </div>
 
@@ -69,7 +59,7 @@ I enjoy combining **AI, software engineering, and problem-solving** to turn idea
 
 ### Development
 
-<img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,flutter" />
+<img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,flutter,androidstudio" />
 
 ### Cloud & Tools
 
@@ -165,9 +155,9 @@ A school management application focused on managing academic information, attend
 
 * 📜 C++ Beginner Certification
 * 📜 C++ Intermediate Certification
-* 🚀 AI & software development projects
-* 🏅 Hackathon & technical competition participation
-* 💡 Building solutions for real-world problems
+* 🚀 AI & Software Development Projects
+* 🏅 Hackathon & Technical Competition Participation
+* 💡 Building Solutions for Real-World Problems
 
 ---
 
@@ -199,7 +189,9 @@ A school management application focused on managing academic information, attend
 
 `Artificial Intelligence` · `Generative AI` · `Full-Stack Development`
 
-`Cybersecurity` · `Cloud Computing` · `Data Structures & Algorithms`
+`Android Development` · `Cybersecurity` · `Cloud Computing`
+
+`Data Structures & Algorithms`
 
 </div>
 

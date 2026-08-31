@@ -9,7 +9,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=sovishake-dt&label=Profile%20Views&color=58A6FF&style=flat-square" />
 
-<br><br>
+<br><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+AI-Powered+Applications;Android+%26+Mobile+App+Development;Full-Stack+Web+Development;Exploring+Generative+AI;Turning+Ideas+Into+Real+Products" /><br>
 
 
 

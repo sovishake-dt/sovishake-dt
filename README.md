@@ -11,7 +11,7 @@
 
 <br><br>
 
-<img src="./banner.png" width="100%" alt="Ovishake Sarker"/>
+
 
 </div>
 

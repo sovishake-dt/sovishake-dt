@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="./banner.png" width="100%" alt="Sovishake Sarker - AI & ML, Full-Stack & Android Developer"/>
-
-<br><br>
-
-# 👋 Hi, I'm Ovishake Sarker
+# 👋 Hi, I'm Sovishake Sarker
 
 ### AI & ML Developer • Full-Stack Developer • Android Developer • Problem Solver
 
@@ -12,7 +8,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=sovishake-dt&label=Profile%20Views&style=flat-square" />
+<img src="./banner.png" width="100%" alt="Sovishake Sarker"/>
 
 </div>
 

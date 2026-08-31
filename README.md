@@ -1,4 +1,19 @@
 <div align="center">
+  <img src="./banner.png" width="100%" alt="Sovishake Sarker - AI & ML, Full-Stack & Android Developer"/>
+</div>
+
+<br>
+
+<div align="center">
+
+# 👋 Hi, I'm Sovishake Sarker
+
+### AI & ML Developer • Full-Stack Developer • Android Developer • Problem Solver
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=800&lines=Building+AI-Powered+Applications;Android+%26+Mobile+App+Development;Full-Stack+Web+Development;Exploring+Generative+AI;Turning+Ideas+Into+Real+Products" />
+
+</div>
+<div align="center">
 
 # 👋 Hi, I'm Ovishake Sarker
 

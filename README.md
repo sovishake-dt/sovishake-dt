@@ -1,112 +1,215 @@
 <div align="center">
 
-# Ovishake Sarker
+# 👋 Hi, I'm Ovishake Sarker
 
-### AI & ML Developer · Full-Stack Developer · Problem Solver
+### AI & ML Developer • Full-Stack Developer • Problem Solver
 
-Building intelligent, practical, and user-focused software solutions.
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Building+AI-Powered+Applications;Exploring+Generative+AI;Developing+Full-Stack+Solutions;Turning+Ideas+Into+Real+Products" />
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/sovishake-dt)
+<img src="https://komarev.com/ghpvc/?username=sovishake-dt&label=Profile%20Views&style=flat-square" />
 
 </div>
 
 ---
 
-## 👋 About Me
+## 🧑‍💻 About Me
 
-I'm a **B.Tech Computer Science & Engineering student specializing in AI & ML**, passionate about building technology that solves real-world problems.
+I'm a **B.Tech Computer Science & Engineering student specializing in Artificial Intelligence & Machine Learning**, passionate about creating practical software and intelligent systems.
 
-My interests include **Artificial Intelligence, Generative AI, Full-Stack Development, Cybersecurity, and Data Structures & Algorithms**.
+I enjoy combining **AI, software engineering, and problem-solving** to turn ideas into useful applications.
 
-I enjoy participating in technical competitions and hackathons, transforming ideas into functional products, and continuously learning new technologies.
-
----
-
-## ⚡ What I Work With
-
-| Area                 | Technologies                                            |
-| -------------------- | ------------------------------------------------------- |
-| **Languages**        | C++ · Java · JavaScript · TypeScript · Dart             |
-| **Frontend**         | React · Vite · HTML · CSS · Flutter                     |
-| **Backend**          | Node.js · Express.js · REST APIs                        |
-| **Database & Cloud** | Firebase · Firestore · Realtime Database · Google Cloud |
-| **AI**               | Generative AI · Gemini · AI Integration                 |
-| **Tools**            | Git · GitHub · VS Code                                  |
+* 🎓 Computer Science & Engineering — AI & ML
+* 🤖 Exploring Artificial Intelligence & Generative AI
+* 💻 Building Web & Mobile Applications
+* 🛡️ Interested in AI-powered Cybersecurity
+* 🧠 Practicing Data Structures & Algorithms
+* 🚀 Building projects and participating in hackathons
+* 🌱 Always learning and experimenting
 
 ---
 
-## 🚀 Featured Projects
+## ⚡ What I Build
+
+<div align="center">
+
+| 🤖 AI Applications | 🌐 Full-Stack Apps | 📱 Mobile Apps |
+| :----------------: | :----------------: | :------------: |
+|    Generative AI   | React & TypeScript |     Flutter    |
+|     AI Analysis    |  Node.js & Express |    Firebase    |
+|   AI Integration   |      REST APIs     |     Android    |
+
+</div>
+
+---
+
+## 🛠️ Technology Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,java,js,ts,dart" />
+
+### Development
+
+<img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,flutter" />
+
+### Cloud & Tools
+
+<img src="https://skillicons.dev/icons?i=firebase,gcp,git,github,vscode" />
+
+</div>
+
+**AI:** Generative AI · Gemini · AI Integration · Prompt Engineering
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
 
 ### 🛡️ LifeShield AI
 
-**AI-powered cybersecurity platform for detecting suspicious messages, scams, and phishing attempts.**
+AI-powered cybersecurity platform designed to detect **scams, phishing attempts, and suspicious messages**.
 
-Provides threat classification, risk scoring, and explainable security analysis.
+**Highlights**
+
+* Risk percentage
+* Threat classification
+* Explainable analysis
+* AI + heuristic detection
+
+**Stack**
 
 `React` `TypeScript` `Node.js` `Express` `AI` `Firebase`
 
-→ [View Repository](https://github.com/sovishake-dt/lifeshield-ai)
+<a href="https://github.com/sovishake-dt/lifeshield-ai">View Project →</a>
 
----
+</td>
+
+<td width="50%">
 
 ### 📄 ResumeIQ
 
-**AI-powered career assistant for students.**
+AI-powered career assistant designed to help students improve their resumes and prepare for target job roles.
 
-Analyzes resumes against target job roles, identifies skill gaps, suggests improvements, and generates personalized learning roadmaps.
+**Highlights**
+
+* Resume analysis
+* Job-role matching
+* Skill-gap detection
+* Personalized learning roadmap
+
+**Stack**
 
 `Flutter` `Firebase` `AI`
 
----
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 🎵 Mayer Tori
 
-**Digital tuning application for traditional musical instruments**, designed to provide an accessible and convenient tuning experience.
+A digital tuning application created for traditional musical instruments.
+
+**Focus**
+
+* Instrument tuning
+* Simple user experience
+* Mobile application development
+
+**Stack**
 
 `Flutter` `Firebase`
 
----
+</td>
 
-## 🎯 Current Focus
+<td width="50%">
 
-```text
-Artificial Intelligence
-Generative AI
-Full-Stack Development
-Data Structures & Algorithms
-Cloud & Backend Development
-Cybersecurity
-```
+### 📚 BAGHS
 
----
+A school management application focused on managing academic information, attendance, marks, and student records.
 
-## 🏆 Certifications & Activities
+**Stack**
 
-* C++ Beginner Certification
-* C++ Intermediate Certification
-* AI & Full-Stack Development Projects
-* Hackathons & Technical Competitions
+`Flutter` `Firebase` `Firestore`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📈 GitHub
+# 🏆 Certifications & Activities
+
+* 📜 C++ Beginner Certification
+* 📜 C++ Intermediate Certification
+* 🚀 AI & software development projects
+* 🏅 Hackathon & technical competition participation
+* 💡 Building solutions for real-world problems
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sovishake-dt\&show_icons=true\&hide_border=true\&rank_icon=github)
+<img src="https://github-readme-stats.vercel.app/api?username=sovishake-dt&show_icons=true&hide_border=true&rank_icon=github" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sovishake-dt&layout=compact&hide_border=true" height="180"/>
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
-
-Interested in **AI, software development, hackathons, collaboration, and innovative technology**.
+# 🔥 Contribution Activity
 
 <div align="center">
 
-### Build · Learn · Solve · Innovate
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sovishake-dt&hide_border=true" />
+
+</div>
+
+---
+
+# 🎯 Currently Exploring
+
+<div align="center">
+
+`Artificial Intelligence` · `Generative AI` · `Full-Stack Development`
+
+`Cybersecurity` · `Cloud Computing` · `Data Structures & Algorithms`
+
+</div>
+
+---
+
+# 📫 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/sovishake-dt">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 💡 Build. Learn. Solve. Innovate.
+
+⭐ If you find my projects interesting, feel free to explore my repositories.
 
 </div>

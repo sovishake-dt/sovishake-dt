@@ -8,7 +8,11 @@
 
 <br>
 
-<img src="./banner.png" width="100%" alt="Sovishake Sarker"/>
+<img src="https://komarev.com/ghpvc/?username=sovishake-dt&label=Profile%20Views&color=58A6FF&style=flat-square" />
+
+<br><br>
+
+<img src="./banner.png" width="100%" alt="Ovishake Sarker"/>
 
 </div>
 

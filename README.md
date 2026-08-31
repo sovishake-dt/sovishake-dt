@@ -4,7 +4,7 @@
 
 ### AI & ML Developer • Full-Stack Developer • Problem Solver
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Building+AI-Powered+Applications;Exploring+Generative+AI;Developing+Full-Stack+Solutions;Turning+Ideas+Into+Real+Products" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+AI-Powered+Applications;Exploring+Generative+AI;Developing+Full-Stack+Solutions;Turning+Ideas+Into+Real+Products" />
 
 <br>
 

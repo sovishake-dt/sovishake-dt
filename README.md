@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Sovishake Sarker
+# 👋 Hi, I'm Ovishake Sarker
 
 ### AI & ML Developer • Full-Stack Developer • Android Developer • Problem Solver
 
